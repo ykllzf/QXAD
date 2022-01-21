@@ -1,2 +1,4 @@
-div.advertise {display: none! important}
-img.img-responsive {display: none! important}
+a[target="_blank"] > .img-responsive {display: none! important}
+.inner-advertise {display: none! important}
+.hidden-log {display: none! important}
+.clearfix.stui-foot {display: none! important}
