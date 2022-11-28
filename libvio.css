@@ -1,4 +1,4 @@
-.col-sm {display:none!important}
-.col-30.col-sm-20.col-md-15 {display:none!important}
-.mobile-adv.mobile-adv-bottom {display:none!important}
-#playerAdvLayer {display:none!important}
+div.col-sm {display:none !important;}
+div.col-30.col-sm-20.col-md-15 {display:none !important;}
+div.mobile-adv.mobile-adv-bottom {display:none!important;}
+div#playerAdvLayer {display:none !important;}
